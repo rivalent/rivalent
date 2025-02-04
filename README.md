@@ -1,10 +1,9 @@
-# 👋 Olá! Eu sou o rivalent
+# 👋 Olá! Eu sou o Richard
 
 ## 🚀 Sobre mim
 
 - 🔥 Um iniciante determinado
-- 💻 Apaixonado por programação e tecnologia
-
+- 💻 Gosto de programar
 ## 🛠 Tecnologias e Ferramentas
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
